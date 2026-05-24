@@ -1,3 +1,4 @@
+https://github.com/the-duru/turing-makinesi-binary-carpma/tree/main
 # Tek Bantlı Turing Makinesi ile İkili Sayı Çarpma — Proje Raporu
 
 ## 1. Problem tanımı
@@ -27,7 +28,6 @@ Kullanıcıdan alınan sayılar bant formatına dönüştürülür; makine `*` i
 | F | {q_accept} |
 | δ | `GECIS_TABLOSU.md` + `turing_binary_carpma.py` |
 
-**Bant örneği:** `_11*10=□□□…`
 
 ## 4. Operand ayrıştırma (zorunlu)
 

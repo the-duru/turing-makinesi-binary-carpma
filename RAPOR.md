@@ -1,4 +1,5 @@
 https://github.com/the-duru/turing-makinesi-binary-carpma/tree/main
+Youtube Video Linki https://www.youtube.com/watch?v=c-KsKYVcFrY 
 # Tek Bantlı Turing Makinesi ile İkili Sayı Çarpma — Proje Raporu
 
 ## 1. Problem tanımı
